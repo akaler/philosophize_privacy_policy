@@ -1,37 +1,31 @@
-## Welcome to GitHub Pages
+## Philosophize Privacy Policy
+This policy went into effect on September 18, 2020
 
-You can use the [editor on GitHub](https://github.com/akaler/philosophize_privacy_policy/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+### What we collect
+This app is provided by Abhijot Kaler at no cost and I do not collect any data from you what so ever. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Information Collection and Use
+No personal information is collected by the Philosophize app
 
-### Markdown
+### Log Data
+No Log data is collected by the Philosophize app
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Cookies
+Cookies are files with a small amount of data that are commonly used as anonymous unique identifiers. These are sent to your browser from the websites that you visit and are stored on your device's internal memory.
+This Service does not use any Cookies.
 
-```markdown
-Syntax highlighted code block
+### Service Providers
+No third party companies are involved in my application.
 
-# Header 1
-## Header 2
-### Header 3
+### Security
+Since no information about you is collected. You are secure while using the Philosophize app 
 
-- Bulleted
-- List
+### Links to Other Sites
+The Philosophize app doesn’t link to any other site
 
-1. Numbered
-2. List
+### Children’s Privacy
+This app doesn’t collect any information what so every
 
-**Bold** and _Italic_ and `Code` text
+### Contact Me
+If you have any questions or suggestions about my Privacy Policy, do not hesitate to contact me at abhijotkaler@gmail.com.
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/akaler/philosophize_privacy_policy/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
